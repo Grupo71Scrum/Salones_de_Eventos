@@ -1,0 +1,17 @@
+.bg-login-image{
+	background: url("../img/bg-login.jpg");
+	background-position: center;
+	background-size: cover;
+	border: 0px;
+}
+
+.sizeDiv{
+	width:40vw;
+}
+
+body {
+    background-image: url("https://i.postimg.cc/fyfkx5F8/imagenfondoo.jpg");
+    background-size: 100%;
+    background-attachment: fixed;
+   
+}  
